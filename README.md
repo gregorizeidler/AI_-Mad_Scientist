@@ -17,13 +17,7 @@
 
 AI Mad Scientist is a sophisticated Streamlit application that harnesses the power of AI to generate, evaluate, and refine creative scientific theories. It leverages a diverse ecosystem of specialized AI agents, each with unique perspectives and creativity levels, to transform your ideas into engaging scientific narratives.
 
-<div align="center">
-  <h3>📺 Watch the Demo Video</h3>
-  <a href="https://drive.google.com/file/d/1Oe3WwBT8yh3SKNsb7chqcYgnP3ygK8Zm/view?usp=sharing" target="_blank">
-    <img src="https://via.placeholder.com/800x400?text=AI+Mad+Scientist+Demo+Video" alt="AI Mad Scientist Demo" width="80%"/>
-  </a>
-  <p><i>Click the image above to watch the demonstration video (US version)</i></p>
-</div>
+**[🎬 Watch US Demo Video](https://drive.google.com/file/d/1Oe3WwBT8yh3SKNsb7chqcYgnP3ygK8Zm/view?usp=sharing)**
 
 ## ✨ Key Features
 
@@ -144,14 +138,8 @@ Visual assessment of scientific validity:
 - 61-80: Plausible (Light green)
 - 81-100: Highly plausible (Dark green)
 
-### 🌎 International Versions
-The AI Mad Scientist application is available in multiple regional versions:
-- 🇺🇸 **US Version** - [View Demo](https://drive.google.com/file/d/1Oe3WwBT8yh3SKNsb7chqcYgnP3ygK8Zm/view?usp=sharing)
-- 🇧🇷 **Brazil Version** - Coming soon
-- 🇪🇺 **Europe Version** - Coming soon
-- 🇯🇵 **Japan Version** - Coming soon
-
-Each regional version includes localized examples, culturally-relevant themes, and region-specific scientific references.
+### 🌎 Regional Availability
+The AI Mad Scientist application is available in the United States with demo available [here](https://drive.google.com/file/d/1Oe3WwBT8yh3SKNsb7chqcYgnP3ygK8Zm/view?usp=sharing). International versions coming soon.
 
 ## 📁 Project Structure
 
